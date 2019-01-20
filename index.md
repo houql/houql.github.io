@@ -4,8 +4,7 @@
 
 layout: home
 ---
-
-
+{% include JB/setup %}
 
 ## Info
 
