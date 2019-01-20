@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Hello World!
+tagline: Coding on shoulders of Giants with music.
+
 ---
 {% include JB/setup %}
 
